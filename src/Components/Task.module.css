@@ -1,0 +1,27 @@
+.block {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 500px; 
+    padding: 10px;
+    border-radius: 20px;
+    gap: 20p;
+    margin: 10px;
+    height: 100px;
+    border: 2px solid gray;
+}
+
+.done {
+    background-color: darkslategray;
+}
+
+.noDone {
+    background-color: darkcyan;
+}
+
+.tect {
+    display: inline-block;
+    margin: 0px 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
